@@ -1,12 +1,14 @@
 # Sobre
 
-Este repositório reúne notebooks e experimentos em Python voltados ao processamento de linguagem natural (NLP) e à aplicação de Machine Learning em dados textuais.
-O projeto tem como foco o pré-processamento e a modelagem de textos, aplicando técnicas de NLP, análise estatística e engenharia de features textuais para identificar e classificar tópicos em dados não estruturados.
+O repositório contém notebooks em Python voltados ao processamento de linguagem natural (NLP) e à aplicação de Machine Learning em textos.
+Os projetos abrangem todo o pipeline de preparação de dados. Desde limpeza e normalização de textos, tokenização e vetorização, engenharia de features textuais.
+Esses processos transformam textos brutos em representações estruturadas e úteis para aplicação de algoritmos de Machine Learning
 
 # Objetivos
 
-  - Explorar técnicas de NLP e machine learning aplicadas a textos.
+Objetivos
 
-  - Desenvolver pipelines de tratamento e análise de dados textuais.
-
-  - Criar uma base de projetos e modelos voltados à interpretação e extração de significado de textos.
+  - Explorar técnicas de NLP e Machine Learning aplicadas a textos.
+  - Desenvolver pipelines completos, desde o pré-processamento até a modelagem preditiva.
+  - Criar uma base de notebooks e modelos reutilizáveis voltados à interpretação e extração de significado de textos.
+  - Demonstrar a evolução prática dos processos de pré-processamento e engenharia de features para modelos de Machine Learning.
